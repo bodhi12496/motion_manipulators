@@ -38,11 +38,7 @@ Advanced Control: The complexity of certain tasks may require sophisticated cont
 - advanced robotic system that can perform complex manipulation tasks with enhanced intelligence and adaptability, almost 2 times faster with the help of neural models.
 - Used predefined data of other smaller DOF robots to create the correct functioning of the motion manipulator using control algorithms like PID (proportional Integral derivative) and testing it in an artificial environment like Gazebo.
 
-https://github.com/Sarrasor/RoboticManipulators/raw/main/images/rr_robot_gravity.gif
-https://github.com/Sarrasor/RoboticManipulators/blob/main/images/rr_robot_trajectory_batman.gif
-https://github.com/Sarrasor/RoboticManipulators/blob/main/images/polynomial_profile_motion.gif
-https://github.com/Sarrasor/RoboticManipulators/blob/main/images/trapezoidal_profile_motion.gif
-https://github.com/Sarrasor/RoboticManipulators/blob/main/images/trapezoidal_cartesian_profile_motion.gif
+
 
   
 
